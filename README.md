@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-# Home Page
+## Home Page
 ```html
 <div class="container--0-">
   <img src="logo.png"/>
@@ -86,7 +86,7 @@ Figma
   <img src="smiley face 1.png" />
 </div>
 ```
-# Page 2 
+## Page 2 
 ```html
 <div class="container--0-">
   <div class="text-0-1-0">List of workshops:</div>
@@ -99,7 +99,7 @@ Figma
 <img src="confetti.png "/>
  </div>
 ```
-# page 3
+## page 3
 ```html
 
  <div class="container--0-">
@@ -278,7 +278,7 @@ Figma
   <div class="text-0-1-19">Submit</div>
 </div>
 ```
-# page 4
+## page 4
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -303,7 +303,7 @@ Figma
 </body>
 </html>
 ```
-# home page-css
+## home page-css
 ```css
 .container--0- {
   position: absolute;
@@ -326,7 +326,7 @@ Figma
   vertical-align: top;
 }
 ```
-# page 2-css
+## page 2-css
 ```css
 .container--0- {
   position: absolute;
@@ -363,7 +363,7 @@ Figma
   vertical-align: top;
 }
 ```
-# page 3-css
+## page 3-css
 ```css
 .container--0- {
   position: absolute;
@@ -480,7 +480,7 @@ Figma
   vertical-align: top;
 }
 ```
-# page 4-css
+## page 4-css
 ```css
 * {
   margin: 0;
