@@ -541,16 +541,16 @@ body {
 ```
 # OUTPUT:
 ## homepage:
-![Screenshot 2024-12-16 113644](https://github.com/user-attachments/assets/9cc06702-87c1-4c9a-803a-928d2661949c)
+![Screenshot 2024-12-22 143121](https://github.com/user-attachments/assets/c1563dbd-f1b3-45db-819d-880354618851)
 
 ## page2:
-![Screenshot 2024-12-16 113723](https://github.com/user-attachments/assets/aec6015e-9ea8-4321-b0b7-2738fe4c6754)
+![Screenshot 2024-12-22 143132](https://github.com/user-attachments/assets/b4978ca5-f13d-4481-ac9d-5d452a4506e0)
 
 ## page3:
-![Screenshot 2024-12-16 113811](https://github.com/user-attachments/assets/f8e29fcb-ccec-4ef3-a286-9c2175177a0e)
+![Screenshot 2024-12-22 143159](https://github.com/user-attachments/assets/d39c5222-7687-4574-8700-f03e6588389f)
 
 ## page4:
-![Screenshot 2024-12-16 113836](https://github.com/user-attachments/assets/338743fc-0f60-49aa-95fd-352d9a4ac897)
+![Screenshot 2024-12-22 143220](https://github.com/user-attachments/assets/cacfc6f3-f9ce-493b-8088-03005788a666)
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
